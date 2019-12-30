@@ -1,0 +1,14 @@
+.PostingForm{
+  padding: 3rem;
+  margin:1rem;
+}
+body{
+  background-color: #f5f5f5;
+}
+.PostingPaper{
+  display: flex;
+  flex-direction: column;
+}
+.card{
+  margin-bottom: 2rem;
+}
